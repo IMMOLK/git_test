@@ -2,7 +2,7 @@ package com.atguigu.git;
 
 /**
  * @author IMMOLK
- * 
+ *
  */
 public class GitTest {
 
